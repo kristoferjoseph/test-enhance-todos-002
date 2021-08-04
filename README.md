@@ -1,2 +1,2 @@
-# test-enhance-todos-002
-Begin app
+# enhance-todos
+Enhance todo list example
